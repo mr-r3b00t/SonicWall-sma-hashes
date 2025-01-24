@@ -1,0 +1,1 @@
+# SonicWall-sma-hashes
